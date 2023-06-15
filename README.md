@@ -1,1 +1,1 @@
-My first readme
+this repo contains all alx pre-course
